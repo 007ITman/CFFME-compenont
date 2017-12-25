@@ -8,13 +8,14 @@ public class GitTest {
 	
 
 		new GitTest();
+		new GitTest();
 	}
 	
 	public void est(){
 	
 		int a = 0;
 		a = a + 1;
-		
+		new GitTest();
 
 	}
 		
