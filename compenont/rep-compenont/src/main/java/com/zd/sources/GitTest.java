@@ -6,10 +6,12 @@ public class GitTest {
 
 		new GitTest();
 
+		new GitTest();
 	}
 	
 	public void est(){
 	
+		System.out.println("config");
 	}
 
 }
