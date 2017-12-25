@@ -11,7 +11,8 @@ public class GitTest {
 	
 	public void est(){
 	
-		System.out.println();
+		int b = 0;
+		 b = b+2;
 	}
 		
 }
