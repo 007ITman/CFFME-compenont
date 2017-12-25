@@ -12,6 +12,8 @@ public class GitTest {
 	
 	public void est(){
 	
+		int a = 0;
+		a = a + 1;
 		
 	}
 		
