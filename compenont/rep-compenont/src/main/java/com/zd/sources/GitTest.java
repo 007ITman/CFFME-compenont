@@ -14,4 +14,8 @@ public class GitTest {
 	public void add(){
 		
 	}
+	
+	public void remove(){
+		
+	}
 }
