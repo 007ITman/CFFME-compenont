@@ -11,6 +11,12 @@ public class GitTest {
 	public void test(){
 		System.out.println("branch-compenont-chout86");
 	}
-	
 
+	public void add(){
+		
+	}
+	
+	public void change(){
+		
+	}
 }
