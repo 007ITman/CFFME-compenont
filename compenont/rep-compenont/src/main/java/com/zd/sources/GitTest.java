@@ -23,4 +23,8 @@ public class GitTest {
 	public void change(){
 		
 	}
+	
+	public void select(){
+		
+	}
 }
