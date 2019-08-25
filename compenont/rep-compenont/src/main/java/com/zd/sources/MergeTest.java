@@ -5,6 +5,6 @@ public class MergeTest {
 	public void test() {
 
 		
-		System.out;
+		System.out.print("first time for git commond !");
 	}
 }
