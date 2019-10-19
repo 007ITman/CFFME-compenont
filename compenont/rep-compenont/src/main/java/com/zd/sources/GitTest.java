@@ -23,4 +23,7 @@ public class GitTest {
 	public void exec() {
 
 	}
+	
+	public void temp() {
+}
 }
