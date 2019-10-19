@@ -6,17 +6,21 @@ public class GitTest {
 
 		GitTest git = new GitTest();
 	}
-	
-	public void test(){
-		
+
+	public void test() {
+
 		System.out.println("branch-compenont-chout86");
 	}
-	
-	public void add(){
-		
+
+	public void add() {
+
 	}
-	
-	public void change(){
-		
+
+	public void change() {
+
+	}
+
+	public void exec() {
+
 	}
 }
