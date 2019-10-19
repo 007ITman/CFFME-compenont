@@ -1,10 +1,16 @@
 package com.zd.sources;
 
 public class MergeTest {
+	
+	public static void main(Stirng args[]) {
+		
+		
+		test();
+	}
 
 	public void test() {
 
 		
-		System.out.print("first time for git commond !");
+		
 	}
 }
