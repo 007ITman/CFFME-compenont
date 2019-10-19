@@ -11,9 +11,11 @@ public class MergeTest {
 	public void test() {
 
 
+		String bookName = "aa";
 		String name = "aaa";
 		System.out.print("first time for git commond !");
 		String age = "12";
+		String strudentNo = "xiaoming";
 
 	}
 }
