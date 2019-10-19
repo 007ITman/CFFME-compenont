@@ -12,7 +12,7 @@ public class GitTest {
 	}
 	
 	public void add(){
-		
+		change();
 	}
 	
 	public void change(){
