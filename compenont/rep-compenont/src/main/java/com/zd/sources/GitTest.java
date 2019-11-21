@@ -2,7 +2,6 @@ package com.zd.sources;
 
 public class GitTest {
 
-	public static void main(String[] args) {
 
 		GitTest git = new GitTest();
 	}
